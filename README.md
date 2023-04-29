@@ -1,6 +1,3 @@
-# youtube-mp3-download
- A simple web application to download and convert YouTube videos to MP3 files
- 
  # YouTube to MP3 Downloader
 
 A simple web application to download and convert YouTube videos to MP3 files using Python, Flask, yt-dlp, and pydub.
